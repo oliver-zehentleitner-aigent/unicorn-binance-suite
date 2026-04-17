@@ -50,6 +50,8 @@ pip install unicorn-binance-suite
 
 ---
 
+## What UBS solves
+
 ### python-binance: reconnect limitations
 
 Original author abandoned the project in 2022. Community fork ships sporadic patches, but the fundamental architecture 
